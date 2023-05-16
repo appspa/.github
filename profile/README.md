@@ -13,7 +13,7 @@
 </div>
 
 
-![AppSpace Showcase](https://github.com/appspa/appspa.github.io/blob/main/static/img/app_distribute.png)
+![AppSpace Showcase](https://github.com/appspa/appspa.github.io/blob/main/static/img/img_6.png)
 
 [//]: # (## 特性)
 
